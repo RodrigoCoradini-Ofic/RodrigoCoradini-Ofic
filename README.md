@@ -12,35 +12,20 @@
 
 - 🎓 Estudante de Engenharia de Software
 - 💻 Desenvolvendo projetos acadêmicos e pessoais
-- 🐍 Python | ☕ Java | 🗄️ SQL
-- 🌐 HTML | CSS
 - 📚 Sempre estudando e buscando novos conhecimentos
 - 🚀 Interessado em desenvolvimento de software e tecnologia
 ________________________________________________________________________________
-~~~Python
-print("Olá, mundo!")
-~~~
+## Tecnologias
 
-~~~Java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Olá Mundo!");
-    }
-}
-~~~
+### 🐍 Linguagens
 
-~~~HTML
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Minha Primeira Página</title>
-</head>
-<body>
-    <h1>Olá, Mundo!</h1>
-</body>
-</html>
-~~~
+🐍 Python | 🗄️ SQL | ☕ Java | 🌐 HTML | 🎨 CSS 
+
+### 🔧 Ferramentas
+
+🐙 GitHub | 🌳 Git | 🔌 VS Code | 📓 Jupyter | 🖥️ Google Colab | 🚀 IntelliJ | 📁 MySQL | 📁 PostgreSQL | 🤖 ChatGPT
+
+💼 Pacote Office | 📊 Excel | 📄 Word | 📽️ PowerPoint | 🔎 PowerBI
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
