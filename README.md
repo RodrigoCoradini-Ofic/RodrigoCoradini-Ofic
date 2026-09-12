@@ -1,8 +1,8 @@
-## Oi, eu sou Rodrigo Coradini!
+# Oi, eu sou Rodrigo Coradini!
 
-<h5>🎓 Estudante de Engenharia de Software, com experiência no desenvolvimento de projetos acadêmicos e pessoais utilizando Python, Java, SQL, HTML e CSS. Tenho interesse em desenvolvimento de software, bancos de dados e criação de soluções para problemas reais.</h5>
+### - 🎓 Estudante de Engenharia de Software, com experiência no desenvolvimento de projetos acadêmicos e pessoais utilizando Python, Java, SQL, HTML e CSS. Tenho interesse em desenvolvimento de software, bancos de dados e criação de soluções para problemas reais.
 
-<h5>💻 Neste perfil, compartilho projetos que desenvolvi durante minha formação e por iniciativa própria, mostrando na prática minha evolução, meus conhecimentos e as tecnologias que venho aprendendo. </h5>
+### - 💻 Neste perfil, compartilho projetos que desenvolvi durante minha formação e por iniciativa própria, mostrando na prática minha evolução, meus conhecimentos e as tecnologias que venho aprendendo.
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RodrigoCoradini-Ofic&rank_icon=github&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=RodrigoCoradini-Ofic&rank_icon=github&include_all_commits=true&theme=dracula)
@@ -38,8 +38,8 @@ ________________________________________________________________________________
   ________________________________________________________________________________
  
 <div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-coradini-722843335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:RodrigoCoradini.Ofic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rodrigo_coradini_43?igsh=MXN6eHZmbWQ0NTA5bg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
